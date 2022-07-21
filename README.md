@@ -28,3 +28,30 @@ This is Quickash Application
 ![image](https://user-images.githubusercontent.com/109742570/180229992-fdbf7bf7-e289-4920-8b63-6df3f007980c.png)
 # Logout
 ![image](https://user-images.githubusercontent.com/109742570/180230063-8727a109-2e27-4ee5-932d-e9e5838dab88.png)
+# Course
+Bachelor of Science in Computer Science
+# Subject
+MOBAPLEC
+# Year
+3rd Year
+# Section
+C
+# School
+Eulogio "Amang" Rodriguez Institute of Science and Technology
+
+Nagtahan, Sampaloc Manila
+
+College of Arts and Sciences
+
+ITE Department
+
+# Professor
+Jefferson A. Costales
+# Developer
+Ivan James N. Anave
+
+Adrianne Lois S. Dela Cruz
+
+Ann Christian B. Ogena
+
+Carol G. Sordilla
