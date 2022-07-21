@@ -36,7 +36,7 @@ MOBAPLEC
 3rd Year
 # Section
 C
-# School
+# School Name
 Eulogio "Amang" Rodriguez Institute of Science and Technology
 
 Nagtahan, Sampaloc Manila
@@ -57,7 +57,7 @@ Ann Christian B. Ogena
 Carol G. Sordilla
 
 # Demo Video
-https://youtu.be/pedy2sEhQPo
+Click the link to watch https://youtu.be/pedy2sEhQPo
 
 # Date
 July 22, 2022
