@@ -5,7 +5,7 @@ This is Quickash Application
 # Sign In
 ![image](https://user-images.githubusercontent.com/109742570/180227921-0f00f036-8363-4d93-9f76-5061a68f9f2e.png)
 # Register
-![image](https://user-images.githubusercontent.com/109742570/180247356-48880543-d215-4126-ad40-3300c165907d.png)
+![image](https://user-images.githubusercontent.com/109742570/180252956-3cf0f766-bda4-4307-ae68-8e5bac0f1f96.png)
 # Home Page
 ![image](https://user-images.githubusercontent.com/109742570/180228818-9e0a38f8-7fbd-4094-9181-c62d6cd714d6.png)
 # Dashboard
